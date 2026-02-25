@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Adrian Bolt
-- **Author Contact**: https://www.linkedin.com/in/Adrian-bolt/
+- **Author Contact**: https://www.linkedin.com/in/Adrianbolt/
 - **Date**: February 24, 2026
 
 ## Validated By:
