@@ -42,7 +42,7 @@ DeviceFileEvents
 
 ```
 <<img width="929" height="830" alt="image" src="https://github.com/user-attachments/assets/90318a26-b485-41a5-b62a-08f6f396c211" />
->
+
 
 ---
 
