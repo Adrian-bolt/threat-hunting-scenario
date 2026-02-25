@@ -157,12 +157,14 @@ C:\Users\adrian\Desktop\Tor Browser\Browser\firefox.exe`
 
 ## Summary
 
-The user "employee" on the "threat-hunt-lab" device initiated and completed the installation of the TOR browser. They proceeded to launch the browser, establish connections within the TOR network, and created various files related to TOR on their desktop, including a file named `tor-shopping-list.txt`. This sequence of activities indicates that the user actively installed, configured, and used the TOR browser, likely for anonymous browsing purposes, with possible documentation in the form of the "shopping list" file.
+On February 24, 2026, the user adrian downloaded and executed the Tor Browser portable installer on the system adrian-mde-test from the Downloads folder. The installer extracted the Tor Browser package to the Desktop, creating key components including tor.exe, firefox.exe, configuration files, and a file named tor-shopping-list.txt. Shortly after extraction, the user launched the Tor Browser, and process logs confirm that both tor.exe and the bundled firefox.exe were executed from the Tor Browser directory. Within seconds of launch, tor.exe established outbound network connections over port 9001 to external IP addresses consistent with Tor network activity, along with additional encrypted traffic observed over port 443, confirming active Tor usage.
+
 
 ---
 
 ## Response Taken
 
-TOR usage was confirmed on the endpoint `threat-hunt-lab` by the user `employee`. The device was isolated, and the user's direct manager was notified.
+TOR usage was confirmed on endpoint ___adrian-MDE-test___________by the user adrian. The device was isolated and the user's direct manager was notified.
+
 
 ---
